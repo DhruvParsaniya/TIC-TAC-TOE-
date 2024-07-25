@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OOP Innovative Assignment</string>
+    <string name="heading">WELCOME TO TIC-TAC-TOE GAME</string>
+    <string name="grid">Our main Grid</string>
+</resources>
