@@ -25,3 +25,10 @@ Alternatively, you can download the APK of the app and install it directly on an
 2. Choose the game mode and start playing.
 3. Tap on the grid to place your mark (X or O).
 
+
+## Preview
+![image](https://github.com/user-attachments/assets/135d4c14-c906-4633-a4ab-33cebc388dce)
+![image](https://github.com/user-attachments/assets/863f40b4-c425-4b1c-9436-5091c396f5c6)
+![image](https://github.com/user-attachments/assets/276d9940-0a5c-43e0-8a0b-afc107913fcf)
+
+
